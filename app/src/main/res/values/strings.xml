@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">My Rider</string>
 
-    <string name="read_button">открыть документ</string>
+    <string name="read_button">Открыть документ</string>
 </resources>
